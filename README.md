@@ -6,4 +6,4 @@ Siamo dei ragazzi che non hanno mai niente da fare e nel tempo libero programman
 Python, JavaScript, C#, Css, Html, Assembly
 
 ## Come contattarci?
-Puoi contattarci tranquillamente su [Discord](https://dsc.gg/uccellini)
+Puoi contattarci tranquillamente su Discord
