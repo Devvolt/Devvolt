@@ -1,9 +1,16 @@
 # Devvolt
 ## Chi siamo?
-Siamo dei ragazzi che non hanno mai niente da fare e nel tempo libero programmano :D
+Siamo dei ragazzi che non hanno mai niente da fare e nel tempo libero programmano.
 
-## Che linguaggi programmiamo?
-Python, JavaScript, C#, Css, Html, Assembly
+## In che linguaggi programmiamo?
+- Python3
+- JavaScript
+- NodeJS
+- C#
+- HTML5
+- CSS3
+- ASSEMBLY x86_64
 
 ## Come contattarci?
-Puoi contattarci tranquillamente su Discord
+È possibile contattarci attraverso:
+- Il nostro [server Discord](https://discord.gg/ekNzAgEJGh)
